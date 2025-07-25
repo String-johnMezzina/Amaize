@@ -5,6 +5,8 @@ This was created as the final software project for a college course, showcasing 
 
 Built With:
 
-  Engine: Unity
-  Language: C#
-  3D Modeling: Meshy AI: Image to 3D Modeling
+Engine: Unity
+
+Language: C#
+
+3D Modeling: Meshy AI: Image to 3D Modeling
